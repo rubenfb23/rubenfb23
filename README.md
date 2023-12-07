@@ -1,7 +1,7 @@
 <h1 align="center">Hello!👋, I'm Rubén</h1>
 <h3 align="center">I'm a Software Engineer from Spain, nice to meet you!</h3>
 
-- 🔭 I’m currently working on [a Startup called Odato, we develop a device to collect precise data through computer vision models!](https://www.linkedin.com/company/odato)
+- 🔭 I’m currently working on a Startup called [Odato](https://www.linkedin.com/company/odato), we develop a device to collect precise data through computer vision models
 
 - 🌱 I’m currently learning **about cybersecurity, cloud and AI**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rubenfernandezboullon@gmail.com**
 
-- 📄 Get my CV! [https://docs.google.com/document/d/1WAWik3iBWd2njn6UatlVzyXvYXqiM-0NucHDX2UnpYk/edit?usp=sharing](https://docs.google.com/document/d/1WAWik3iBWd2njn6UatlVzyXvYXqiM-0NucHDX2UnpYk/edit?usp=sharing)
+- 📄 Get my **[CV](https://docs.google.com/document/d/1WAWik3iBWd2njn6UatlVzyXvYXqiM-0NucHDX2UnpYk/edit?usp=sharing)**!
 
 - ⚡ My greatest skill **is being a targeted proactive human**
 
