@@ -3,17 +3,11 @@
 
 - 🔭 I’m currently working on a Startup called [Odato](https://www.linkedin.com/company/odato), we develop a device to collect precise data through computer vision models
 
-- 🌱 I’m currently learning **about cybersecurity, cloud and AI**
-
 - 👯 I’m looking to collaborate on **OpenSource projects to improve my skills**
-
-- 💬 Ask me about **anything, really!**
 
 - 📫 How to reach me **rubenfernandezboullon@gmail.com**
 
 - 📄 Get my **[CV](https://docs.google.com/document/d/1WAWik3iBWd2njn6UatlVzyXvYXqiM-0NucHDX2UnpYk/edit?usp=sharing)**!
-
-- ⚡ My greatest skill **is being a targeted proactive human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
