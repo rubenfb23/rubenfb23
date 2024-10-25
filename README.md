@@ -1,4 +1,4 @@
-<h1 align="center">Hello!👋, I'm Rubén</h1>
+<h1 align="center">Hello!👋 I'm Rubén</h1>
 <h3 align="center">I'm a Software Engineer from Spain, nice to meet you!</h3>
 
 - 🔭 I’m currently working on a Startup called [Odato](https://www.linkedin.com/company/odato), we develop a device to collect precise data through computer vision models
