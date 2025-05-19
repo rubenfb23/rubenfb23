@@ -1,7 +1,7 @@
 <h1 align="center">Hello!👋 I'm Rubén</h1>
 <h3 align="center">I'm a Software Engineer from Spain, nice to meet you!</h3>
 
-- 🔭 I’m currently working on Vigo University, we develop machine learning solutions for cross-industry challenges (healthcare, manufacturing, logistics).
+- 🔭 I’m currently working on Vigo University (Applied Artificial Inteligence Lab), we develop machine learning solutions for cross-industry challenges (healthcare, manufacturing, logistics).
 
 - 👯 I’m looking to collaborate on **OpenSource projects**
 
