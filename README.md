@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋 I'm Rubén</h1>
-<h3 align="center">Software Engineer from Spain, nice to meet you!</h3>
+<h3 align="center">Software Engineer from Spain, what's up?</h3>
 
 ---
 
