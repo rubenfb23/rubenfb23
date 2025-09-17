@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Applied%20AI-R%26D%20Engineer-8A2BE2?style=for-the-badge&labelColor=1f1f3d" alt="Applied AI R&D Engineer badge" />
   <img src="https://img.shields.io/badge/Autonomous%20Systems-Team%20Lead-FF6F61?style=for-the-badge&labelColor=361a1a" alt="Autonomous Systems Team Lead badge" />
-  <img src="https://img.shields.io/badge/Multilingual-ES%20|%20GL%20|%20EN%20%7C%20PT%20%7C%20ZH-20B2AA?style=for-the-badge&labelColor=0b2f2f" alt="Multilingual badge" />
+  <img src="https://img.shields.io/badge/Multilingual-ES%20|%20GL%20|%20EN%20%7C%20PT%20%7C%20CH-20B2AA?style=for-the-badge&labelColor=0b2f2f" alt="Multilingual badge" />
 </p>
 
 ---
@@ -41,14 +41,6 @@
 `PyTorch` · `TensorFlow` · `Keras` · `scikit-learn` · `Pandas` · `MLflow` · `DeepStream` · `TensorRT` · `YOLO`
 `Python` · `FastAPI` · `Node.js` · `React` · `Svelte` · `TypeScript` · `SQLAlchemy` · `HTML/CSS` · `C/C++` · `Java`
 `Jetson` · `ROS` · `CAN-bus` · `Docker` · `Git` · `Bash` · `Linux`
-
----
-
-## 🎓 Credentials & Languages
-
-- 🎓 BSc Computer Science (2025) & MEng Computer Science Engineering (ongoing, 2026) — Universidade de Vigo
-- 🛡️ LangChain with Your Data · Azure AI Fundamentals · MathWorks ML Onramp & ML with MATLAB · Business Analysis & Process Management · Power BI data prep & transformation
-- 🗣️ Spanish & Galician (native) · English (full professional) · Portuguese (limited working) · Chinese (elementary)
 
 ---
 
