@@ -1,48 +1,63 @@
 # Rubén Fernández Boullón
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Developer working on AI projects" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Developer focusing on AI projects" />
 </p>
 
-**🤖 Applied AI R&D Engineer | 🚗 Autonomous Systems Lead | 🌍 Multilingual Communicator**
+<p align="center">
+  <img src="https://img.shields.io/badge/Applied%20AI-R%26D%20Engineer-8A2BE2?style=for-the-badge&labelColor=1f1f3d" alt="Applied AI R&D Engineer badge" />
+  <img src="https://img.shields.io/badge/Autonomous%20Systems-Team%20Lead-FF6F61?style=for-the-badge&labelColor=361a1a" alt="Autonomous Systems Team Lead badge" />
+  <img src="https://img.shields.io/badge/Multilingual-ES%20|%20GL%20|%20EN%20%7C%20PT%20%7C%20ZH-20B2AA?style=for-the-badge&labelColor=0b2f2f" alt="Multilingual badge" />
+</p>
 
 ---
 
-## 🔍 Quick Snapshot
+## 🔍 Snapshot
 
-- 🚀 AI R&D engineer at Universidade de Vigo’s LIA2, moving ML research into healthcare, manufacturing, and logistics products.
-- 🧠 Founder of Odato, crafting Jetson Orin computer-vision tools that streamline on-site data capture and analytics.
-- 🏁 Former UVigo Motorsport AI lead, steering a 28-person autonomous racing team with Scrum, roadmaps, and cross-functional orchestration.
-
----
-
-## 📌 Impact Highlights
-
-- **AI R&D @ LIA2 (2023—present):** Production-grade ML services blending Python, FastAPI, Strapi, React, Node, SQLAlchemy, PyTorch, Keras, TensorFlow, MLflow, Supabase.
-- **Odato Founder (2023—present):** Embedded CV pipeline with DeepStream, TensorRT, YOLO on Jetson hardware; cover architecture, ops, sales, and strategy.
-- **UVigo Motorsport (2022—2023):** Delivered stereoscopic perception, ROS messaging, and CAN-bus integration for a Formula Student driverless entry while managing risk and stakeholder alignment.
+- 🚀 AI R&D at Universidade de Vigo’s LIA2, deploying ML into healthcare, manufacturing, and logistics products.
+- 🧠 Founder of Odato, building Jetson Orin computer-vision systems for fast, reliable data capture.
+- 🏁 Led UVigo Motorsport’s 28-person autonomous team, taking a Formula Student racer driverless with Scrum delivery.
 
 ---
 
-## 🧰 Tech Toolkit
+## ✨ Impact Highlights
 
-- **AI & Data:** PyTorch · TensorFlow · Keras · scikit-learn · Pandas · MLflow · DeepStream · TensorRT · YOLO · OpenCV · MATLAB
-- **Software:** Python · FastAPI · Node.js · JavaScript/TypeScript · React · Svelte · SQLAlchemy · HTML/CSS · C · C++ · Java
-- **Systems:** NVIDIA Jetson · ROS · CAN-bus · Docker · Git · Bash · Linux
-- **Ways of Working:** Agile (Scrum) · roadmap ownership · stakeholder liaison · clean code mindset
+- **AI R&D @ LIA2 (2023—present):** Python · FastAPI · React · SQLAlchemy · PyTorch · Keras · TensorFlow · MLflow · Supabase
+- **Odato Founder (2023—present):** DeepStream · TensorRT · YOLO · FastAPI · JavaScript · Jetson Orin · product & go-to-market leadership
+- **UVigo Motorsport (2022—2023):** Stereoscopic CV · ROS bus · CAN integration · stakeholder orchestration under racing deadlines
+
+---
+
+## 🎯 Projects in Motion
+
+- 🤖 Autonomous racing stack delivering perception, ROS messaging, and CAN telemetry for Formula Student UK.
+- 🏥 Production ML delivery pipelines serving cross-industry clients with monitoring-ready deployments.
+- 📚 LLM app prototyping grounded in DeepLearning.AI LangChain coursework for data-aware assistants.
+
+---
+
+## 🧰 Tech Palette
+
+`PyTorch` · `TensorFlow` · `Keras` · `scikit-learn` · `Pandas` · `MLflow` · `DeepStream` · `TensorRT` · `YOLO`
+`Python` · `FastAPI` · `Node.js` · `React` · `Svelte` · `TypeScript` · `SQLAlchemy` · `HTML/CSS` · `C/C++` · `Java`
+`Jetson` · `ROS` · `CAN-bus` · `Docker` · `Git` · `Bash` · `Linux`
 
 ---
 
 ## 🎓 Credentials & Languages
 
-- 🎓 BSc Computer Science (2025) & MEng Computer Science Engineering (in progress, 2026) — Universidade de Vigo
-- 🛡️ LangChain with Your Data (DeepLearning.AI) · Azure AI Fundamentals · Machine Learning Onramp & Machine Learning with MATLAB (MathWorks) · Business Analysis & Process Management · Power BI data preparation & transformation
+- 🎓 BSc Computer Science (2025) & MEng Computer Science Engineering (ongoing, 2026) — Universidade de Vigo
+- 🛡️ LangChain with Your Data · Azure AI Fundamentals · MathWorks ML Onramp & ML with MATLAB · Business Analysis & Process Management · Power BI data prep & transformation
 - 🗣️ Spanish & Galician (native) · English (full professional) · Portuguese (limited working) · Chinese (elementary)
 
 ---
 
 ## 🤝 Let’s Collaborate
 
-- ✉️ [rubenfernandezboullon@gmail.com](mailto:rubenfernandezboullon@gmail.com)
-- 💼 [linkedin.com/in/ruben-fernandez-boullon](https://linkedin.com/in/ruben-fernandez-boullon)
-- 📄 [Curriculum Vitae](https://docs.google.com/document/d/1WAWik3iBWd2njn6UatlVzyXvYXqiM-0NucHDX2UnpYk/edit?usp=sharing)
+<p align="center">
+  <a href="mailto:rubenfernandezboullon@gmail.com"><img src="https://img.shields.io/badge/Email-rubenfernandezboullon%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rubén" /></a>
+  <a href="https://linkedin.com/in/ruben-fernandez-boullon"><img src="https://img.shields.io/badge/LinkedIn-Rub%C3%A9n%20Fern%C3%A1ndez%20Boull%C3%B3n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Rubén Fernández Boullón" /></a>
+  <a href="https://docs.google.com/document/d/1WAWik3iBWd2njn6UatlVzyXvYXqiM-0NucHDX2UnpYk/edit?usp=sharing"><img src="https://img.shields.io/badge/CV-View%20Document-4444FF?style=for-the-badge&logo=googledocs&logoColor=white" alt="Rubén CV" /></a>
+</p>
+
+> *Open to applied AI collaborations, open-source contributions, and autonomous systems challenges.*
