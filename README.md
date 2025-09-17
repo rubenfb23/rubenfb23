@@ -46,5 +46,3 @@
 - ✉️ [rubenfernandezboullon@gmail.com](mailto:rubenfernandezboullon@gmail.com)
 - 💼 [linkedin.com/in/ruben-fernandez-boullon](https://linkedin.com/in/ruben-fernandez-boullon)
 - 📄 [Curriculum Vitae](https://docs.google.com/document/d/1WAWik3iBWd2njn6UatlVzyXvYXqiM-0NucHDX2UnpYk/edit?usp=sharing)
-
-*Open to applied AI collaborations and open-source contributions.*
