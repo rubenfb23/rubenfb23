@@ -1,56 +1,52 @@
 # Rubén Fernández Boullón
 
-**Applied AI R&D Engineer | Autonomous Systems Lead | Multilingual Communicator**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Developer working on AI projects" />
+</p>
 
-> R&D engineer specializing in applied AI who translates theoretical models into production-ready systems across healthcare, manufacturing, and logistics.
-
----
-
-## Portfolio Summary
-- AI R&D engineer at Universidade de Vigo’s Applied Artificial Intelligence Lab, shipping machine-learning products into healthcare, manufacturing, and logistics settings.
-- Founder of Odato, building an embedded computer-vision product on NVIDIA Jetson Orin to streamline data collection and analytics.
-- Led UVigo Motorsport’s autonomous program, converting a Formula Student single-seater into a driverless vehicle and managing a 28-person department using Agile delivery practices.
-- Hands-on in stereoscopic perception, ROS-driven inter-module communication, and CAN-bus vehicle networking; architect modern AI applications with PyTorch and production tooling.
-- Grounded in LLM app development via DeepLearning.AI’s LangChain coursework and eager to contribute to open-source AI initiatives.
-- Spanish and Galician native speaker with English full professional proficiency, Portuguese limited working, and Chinese elementary; BSc completed and MEng in progress at Universidade de Vigo.
+**🤖 Applied AI R&D Engineer | 🚗 Autonomous Systems Lead | 🌍 Multilingual Communicator**
 
 ---
 
-## Impact Highlights
-- **AI R&D at LIA2** (Jun 2023–present): Investigate state-of-the-art ML techniques and deliver production-ready services by combining Python, FastAPI, Strapi, React, Node, SQLAlchemy, PyTorch, Keras, TensorFlow, MLflow, and Supabase.
-- **Odato Founder** (Apr 2023–present): Designed and deployed an embedded computer-vision pipeline (DeepStream, TensorRT, YOLO) on Jetson hardware, wrapped in a FastAPI + JavaScript stack; drive technical architecture, operations, sales, and strategy.
-- **UVigo Motorsport AI Team Lead** (Mar 2022–Sep 2023): Orchestrated the transition to an autonomous racing vehicle with Scrum, resource/risk estimation, and stakeholder coordination across departments and industry partners.
+## 🔍 Quick Snapshot
+- 🚀 AI R&D engineer at Universidade de Vigo’s LIA2, moving ML research into healthcare, manufacturing, and logistics products.
+- 🧠 Founder of Odato, crafting Jetson Orin computer-vision tools that streamline on-site data capture and analytics.
+- 🏁 Former UVigo Motorsport AI lead, steering a 28-person autonomous racing team with Scrum, roadmaps, and cross-functional orchestration.
 
 ---
 
-## Selected Case Studies
-- **Autonomous racing platform:** Engineered stereoscopic perception, ROS messaging, and CAN-bus integration to unlock driverless performance for Formula Student UK competition.
-- **Production ML delivery:** Translate research into reliable deployments for healthcare, industrial, and logistics partners, aligning pipelines, model serving, and monitoring.
-- **LLM application prototyping:** Applied LangChain training to build grounded large-language-model workflows connected to real data.
+## 📌 Impact Highlights
+- **AI R&D @ LIA2 (2023—present):** Production-grade ML services blending Python, FastAPI, Strapi, React, Node, SQLAlchemy, PyTorch, Keras, TensorFlow, MLflow, Supabase.
+- **Odato Founder (2023—present):** Embedded CV pipeline with DeepStream, TensorRT, YOLO on Jetson hardware; cover architecture, ops, sales, and strategy.
+- **UVigo Motorsport (2022—2023):** Delivered stereoscopic perception, ROS messaging, and CAN-bus integration for a Formula Student driverless entry while managing risk and stakeholder alignment.
 
 ---
 
-## Technical Toolkit
-- **AI & Data:** PyTorch, TensorFlow, Keras, scikit-learn, Pandas, MLflow, DeepStream, TensorRT, YOLO, OpenCV, MATLAB
-- **Software Engineering:** Python, FastAPI, Node.js, JavaScript/TypeScript, React, Svelte, SQLAlchemy, HTML/CSS, C, C++, Java
-- **Systems & DevOps:** NVIDIA Jetson, ROS, CAN-bus, Docker, Git, Bash, Linux
-- **Product & Delivery:** Agile (Scrum), roadmap ownership, cross-functional stakeholder liaison, clean code practices
+## 🧪 Spotlight Projects
+- 🤖 Autonomous racing stack with driverless perception, ROS inter-module comms, and CAN-bus telemetry for FSUK competition.
+- 🏥 Production ML delivery aligning pipelines, model serving, and monitoring for industry clients in healthcare, manufacturing, and logistics.
+- 📚 LLM application prototyping using DeepLearning.AI LangChain coursework to ground models in organizational data.
 
 ---
 
-## Education & Certifications
-- **MEng Computer Science Engineering** (in progress, 2026) — Universidade de Vigo
-- **BSc Computer Science** (2025) — Universidade de Vigo
-- Select credentials: LangChain with Your Data (DeepLearning.AI), Azure AI Fundamentals, Machine Learning Onramp & Machine Learning with MATLAB (MathWorks), Business Analysis & Process Management, Power BI data preparation and transformation
+## 🧰 Tech Toolkit
+- **AI & Data:** PyTorch · TensorFlow · Keras · scikit-learn · Pandas · MLflow · DeepStream · TensorRT · YOLO · OpenCV · MATLAB
+- **Software:** Python · FastAPI · Node.js · JavaScript/TypeScript · React · Svelte · SQLAlchemy · HTML/CSS · C · C++ · Java
+- **Systems:** NVIDIA Jetson · ROS · CAN-bus · Docker · Git · Bash · Linux
+- **Ways of Working:** Agile (Scrum) · roadmap ownership · stakeholder liaison · clean code mindset
 
 ---
 
-## Languages
-- Spanish & Galician (native), English (full professional), Portuguese (limited working), Chinese (elementary)
+## 🎓 Credentials & Languages
+- 🎓 BSc Computer Science (2025) & MEng Computer Science Engineering (in progress, 2026) — Universidade de Vigo
+- 🛡️ LangChain with Your Data (DeepLearning.AI) · Azure AI Fundamentals · Machine Learning Onramp & Machine Learning with MATLAB (MathWorks) · Business Analysis & Process Management · Power BI data preparation & transformation
+- 🗣️ Spanish & Galician (native) · English (full professional) · Portuguese (limited working) · Chinese (elementary)
 
 ---
 
-## Let’s Collaborate
-- Email: [rubenfernandezboullon@gmail.com](mailto:rubenfernandezboullon@gmail.com)
-- LinkedIn: [linkedin.com/in/ruben-fernandez-boullon](https://linkedin.com/in/ruben-fernandez-boullon)
-- CV: [View document](https://docs.google.com/document/d/1WAWik3iBWd2njn6UatlVzyXvYXqiM-0NucHDX2UnpYk/edit?usp=sharing)
+## 🤝 Let’s Collaborate
+- ✉️ [rubenfernandezboullon@gmail.com](mailto:rubenfernandezboullon@gmail.com)
+- 💼 [linkedin.com/in/ruben-fernandez-boullon](https://linkedin.com/in/ruben-fernandez-boullon)
+- 📄 [Curriculum Vitae](https://docs.google.com/document/d/1WAWik3iBWd2njn6UatlVzyXvYXqiM-0NucHDX2UnpYk/edit?usp=sharing)
+
+*Open to applied AI collaborations and open-source contributions.*
