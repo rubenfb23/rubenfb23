@@ -16,7 +16,7 @@
 
 - 🚀 AI R&D at Universidade de Vigo’s LIA2, deploying ML into healthcare, manufacturing, and logistics products.
 - 🧠 Founder of Odato, building Jetson Orin computer-vision systems for fast, reliable data capture.
-- 🏁 Led UVigo Motorsport’s 28-person autonomous team, taking a Formula Student racer driverless with Scrum delivery.
+- 🏁 Led UVigo Motorsport’s 28-person AI team, making a Formula Student oneseater driverless.
 
 ---
 
