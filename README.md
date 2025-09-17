@@ -47,7 +47,7 @@
 ## 🤝 Let’s Collaborate
 
 <p align="center">
-  <a href="mailto:rubenfernandezboullon@gmail.com"><img src="https://img.shields.io/badge/Email-rubenfernandezboullon%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rubén" /></a>
+  <a href="mailto:rubenfernandezboullon@gmail.com"><img src="https://img.shields.io/badge/Email-ruben.fernandez.boullon%40uvigo.es-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rubén" /></a>
   <a href="https://linkedin.com/in/ruben-fernandez-boullon"><img src="https://img.shields.io/badge/LinkedIn-Rub%C3%A9n%20Fern%C3%A1ndez%20Boull%C3%B3n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Rubén Fernández Boullón" /></a>
   <a href="https://docs.google.com/document/d/1WAWik3iBWd2njn6UatlVzyXvYXqiM-0NucHDX2UnpYk/edit?usp=sharing"><img src="https://img.shields.io/badge/CV-View%20Document-4444FF?style=for-the-badge&logo=googledocs&logoColor=white" alt="Rubén CV" /></a>
 </p>
