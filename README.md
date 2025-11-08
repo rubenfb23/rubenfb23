@@ -32,7 +32,8 @@
 
 - 🤖 Autonomous racing stack delivering perception, ROS messaging, and CAN telemetry for Formula Student UK.
 - 🏥 Production ML delivery pipelines serving cross-industry clients with monitoring-ready deployments.
-- 📚 LLM app prototyping grounded in DeepLearning.AI LangChain coursework for data-aware assistants.
+- 📚 Open-source framework for high-throughput LLM activation streaming (multi-GB/s) with minimal inference overhead, supporting interpretability research in transformer models.
+
 
 ---
 
