@@ -14,17 +14,15 @@
 
 ## 🔍 Snapshot
 
-- 🚀 AI R&D at Universidade de Vigo’s LIA2, deploying ML into healthcare, manufacturing, and logistics products.
-- 🧠 Founder of Odato, building Jetson Orin computer-vision systems for fast, reliable data capture.
-- 🏁 Led UVigo Motorsport’s 28-person AI team, making a Formula Student oneseater driverless.
+- 🚀 AI R&D at University of Vigo’s Applied Artificial Inteligence Lab, deploying ML into healthcare, manufacturing, and logistics products.
+- 🏁 Led UVigo Motorsport’s 28-person AI Research team, making a Formula Student vehicle driverless.
 
 ---
 
 ## ✨ Impact Highlights
 
 - **AI R&D @ LIA2 (2023—present):** Python · FastAPI · React · SQLAlchemy · PyTorch · Keras · TensorFlow · MLflow · Supabase
-- **Odato Founder (2023—present):** DeepStream · TensorRT · YOLO · FastAPI · JavaScript · Jetson Orin · product & go-to-market leadership
-- **UVigo Motorsport (2022—2023):** Stereoscopic CV · ROS bus · CAN integration · stakeholder orchestration under racing deadlines
+- **UVigo Motorsport (2021—2023):** Stereoscopic CV · ROS bus · CAN integration · stakeholder orchestration under racing deadlines
 
 ---
 
