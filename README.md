@@ -15,7 +15,7 @@
 ## 🔍 Snapshot
 
 - 🚀 AI R&D at University of Vigo’s Applied Artificial Inteligence Lab, deploying ML into healthcare, manufacturing, and logistics products.
-- 🔬 Research line: LLM behavior analysis and AI explainability, from external observation in **SOI-LLM** and internal analysis in **PIG**.
+- 🔬 Research line: LLM behavior analysis and AI explainability, combining external observation and internal mechanism analysis.
 - 🏁 Led UVigo Motorsport’s 28-person AI Research team, making a Formula Student vehicle driverless.
 
 ---
