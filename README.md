@@ -29,9 +29,9 @@
 
 ## 🎯 Projects in Motion
 
-- 🤖 Autonomous racing stack delivering perception, ROS messaging, and CAN telemetry for Formula Student UK.
-- 🏥 Production ML delivery pipelines serving cross-industry clients with monitoring-ready deployments.
-- 📚 Open-source framework for high-throughput LLM activation streaming (multi-GB/s) with minimal inference overhead, supporting interpretability research in transformer models.
+- 🔬 LLM behavior analysis and AI explainability, combining external evaluation and internal mechanism study.
+- 🏥 Applied ML delivery from experimentation to production in healthcare, manufacturing, and logistics settings.
+- 🤖 Real-time perception and autonomous systems integration with robust software and data pipelines.
 
 
 ---
